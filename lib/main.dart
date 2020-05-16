@@ -8,8 +8,8 @@ void main() {
         appBar: AppBar(
           title: Text('ESS & ESI'),
           backgroundColor: Colors.blueGrey[900],
-          ),
         ),
       ),
+    ),
   );
 }
